@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Materialize/schemes/Material Monokai Soda.tmTheme",
+	"font_face": "Operator Mono Bold Italic",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"ligatures": true,
+	"theme": "Adaptive.sublime-theme",
+	"word_wrap": true,
+}

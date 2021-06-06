@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:\\Users\\haris\\AppData\\Local\\Programs\\Python\\Python39\\python.exe", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "quiet": true
+}

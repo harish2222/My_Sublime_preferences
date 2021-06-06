@@ -1,0 +1,105 @@
+{
+	"message_id": 20,
+	"project_data":
+	{
+		/*"2":
+		{
+			"build_systems":
+			[
+				{
+					"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+					"name": "Anaconda Python Builder",
+					"selector": "source.python",
+					"shell_cmd": "\"c:\\Users\\haris\\anaconda3\\python.exe\" -u \"$file\"",
+				}
+			],
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\PYTHON\\Customerrm",
+				}
+			],
+		},*/
+		/*"3":
+		{
+			"build_systems":
+			[
+				{
+					"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+					"name": "Anaconda Python Builder",
+					"selector": "source.python",
+					"shell_cmd": "\"c:\\Users\\haris\\anaconda3\\python.exe\" -u \"$file\"",
+				}
+			],
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\Java1\\New folder",
+				}
+			],
+		},*/
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\PYTHON\\Customerrm",
+				}
+			],
+		},*/
+		/*"3": {
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\Python_2021\\Oops and Classes",
+				}
+			],
+		},*/
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\Python_2021\\Oops and Classes",
+				}
+			],
+			"build_systems":
+			[
+				{
+					"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+					"name": "Anaconda Python Builder",
+					"selector": "source.python",
+					"shell_cmd": "\"c:\\Users\\haris\\anaconda3\\python.exe\" -u \"$file\"",
+				}
+			],
+		},*/
+		/*"3": null,*/
+		/*"4": null,*/
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\Python_2021\\Oops and Classes",
+				}
+			],
+		},
+		"3": {
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\haris\\AppData\\Roaming\\Sublime Text 3\\Packages\\User"
+				}
+			]
+		},
+	},
+	"jdk_version":
+	{
+		"JDK16.0.1":
+		{
+			"path": "C:\\Program Files\\Java\\jdk-16.0.1\\bin",
+			"version": "16.0.1",
+		},
+		"use": "",
+	},
+}
