@@ -6,7 +6,8 @@
         "python_virtualenv": "$project_path/venv",
         "python_interpreter": "C:\\Users\\haris\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
  
-      	
+        "auto_complete_function_params": "required",
+        "sublime_completions_visibility": "all",
 
 
 
