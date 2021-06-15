@@ -1,0 +1,17 @@
+
+	// Packages/User/Preferences.sublime-settings
+
+{
+    "distraction_free_window.toggle_menu": true,
+    "distraction_free_window.toggle_minimap": true,
+    "distraction_free_window.toggle_status_bar": true,
+    "distraction_free_window.toggle_tabs": true,
+    "line_numbers": true,
+	"gutter": false,
+	"draw_centered": true,
+	"wrap_width": 80,
+	"word_wrap": true,
+	"scroll_past_end": true
+}
+
+

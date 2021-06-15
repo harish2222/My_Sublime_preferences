@@ -1,0 +1,94 @@
+// RainbowBrackets Preferences – User
+// ====================================================
+{
+	"debug": false,
+	"brackets": {
+		"pairs": {
+			"(": ")",
+			"[": "]",
+			"{": "}",
+			"<": ">"
+		},
+		"filetypes": {
+			"default": {
+				"opening": [
+					"(",
+					"[",
+					"{"
+				],
+				"ignored_scopes": [
+					"comment",
+					"string"
+				]
+			},
+			"scheme": {
+				"opening": [
+					"(",
+					"[",
+					"{"
+				],
+				"ignored_scopes": [
+					"comment",
+					"string",
+					"constant.character",
+					"symbol"
+				],
+				"extensions": [
+					"scm",
+					"ss",
+					"py", /* python */
+					"cpp", /* c++ */
+					"h", /*headers */
+					"js", /* javascript */
+					"ts", /* typescript*/
+					"c", /* C */
+					"ps1", /* powershe;;*/
+					"bat", /*batch scripting */
+					"java", /*java */
+					"jsx", /* React or simple jsx */
+					"r", /* R language*/
+					"rb", /*ruby */
+					"cbb", /* c*/
+					"html", /* html*/
+					"css", /*CSS */
+					"sass", /* SASS*/
+					"sql", /* sql*/
+					"json",
+				]
+			},
+			"json": {
+				"opening": [
+					"[",
+					"{"
+				],
+				"ignored_scopes": [
+					"comment",
+					"string"
+				],
+				"extensions": [
+					"json",
+					"sublime-settings",
+					"sublime-menu",
+					"sublime-build",
+					"sublime-keymap",
+					"sublime-commands",
+					"sublime-theme",
+					"sublime-color-scheme",
+				]
+			}
+		}
+	},
+	"rainbow_colors": {
+		"matched": [
+			"#f162ff", /* level1  */
+			"#ff6e40",
+			"pink", /* level2  */
+			"palegreen", /* level3  */
+			"lightblue", /* level4  */
+			"magenta",		/* level5  */
+			"#1e847f", /* level6  */
+			"#7D00E5" /* level7  */
+		],
+		"mismatched": "#FF0000"
+	}
+}

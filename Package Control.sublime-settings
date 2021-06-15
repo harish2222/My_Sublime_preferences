@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"Auto Close HTML Tags",
 		"auto-save",
 		"AutoFileName",
@@ -42,6 +41,8 @@
 		"LSP-stylelint",
 		"LSP-typescript",
 		"LSP-yaml",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
 		"Monokai Dark",
 		"Monokai++",
 		"Nodejs",
@@ -50,6 +51,7 @@
 		"Panda Syntax Sublime",
 		"Python 3",
 		"PythonTest",
+		"RainbowBrackets",
 		"React ES6 Snippets",
 		"React IDE",
 		"React Native Autocomplete",
