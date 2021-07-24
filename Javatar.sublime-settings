@@ -231,7 +231,7 @@
 		},*/
 		/*"3": null,*/
 		/*"4": null,*/
-		"2":
+		/*"2":
 		{
 			"folders":
 			[
@@ -248,12 +248,25 @@
 					"shell_cmd": "\"c:\\Users\\haris\\anaconda3\\python.exe\" -u \"$file\"",
 				}
 			],
-		},
+		},*/
 		/*"4": null,*/
 		/*"5": null,*/
 		/*"6": null,*/
 		/*"7": null,*/
-		"8": null,
+		/*"8": null,*/
+		/*"9": null,*/
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "H:\\PROGRAMMING\\Python_2021\\Oops and Classes",
+				}
+			],
+		},*/
+		/*"3": null,*/
+		/*"4": null,*/
+		/*"5": null,*/
 	},
 	"jdk_version":
 	{

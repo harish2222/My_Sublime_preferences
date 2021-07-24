@@ -1,8 +1,9 @@
 {
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.sublime-color-scheme",
+	"color_scheme": "Packages/Material Monokai/MaterialMonokaiDark.tmTheme",
 	// "font_face": "Operator Mono Bold Italic",
-	"font_face": "CaskaydiaCove Nerd Font",
+	// "font_face": "CaskaydiaCove Nerd Font",
 	// "font_face": "Cascadia Mono Pl Italic",
+	"font_face": "mononoki Bold Italic Nerd Font Complete",
 	"font_size": 12,
 	"ignored_packages":
 	[

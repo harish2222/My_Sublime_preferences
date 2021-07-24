@@ -1,7 +1,6 @@
 {
 	"shell_configs": [
-        
-        
+              
         {
             "name": "PowerShell Core",
             "cmd": "pwsh.exe",
